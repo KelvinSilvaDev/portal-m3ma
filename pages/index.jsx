@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Menu from "../src/components/Menu/Menu";
+import * as Style from "./styles";
 
 export default function Home() {
   return (
@@ -11,7 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Menu />
+        <Style.SectionOne>
+          <div>
+            <p>Bem vindo</p>
+          </div>
+        </Style.SectionOne>
       </main>
     </div>
   );
