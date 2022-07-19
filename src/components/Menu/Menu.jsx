@@ -6,10 +6,11 @@ export default function Menu() {
     <Style.MenuWrapp>
       <nav>
         <Link href="/">Início</Link>
-        <Link href="/missao">Missao</Link>
-        <Link href="/visao">Visao</Link>
+        <Link href="/Missao">Missao</Link>
+        <Link href="/Visao">Visao</Link>
         <Link href="/historia">Historia</Link>
         <Link href="/projetos">Projetos</Link>
+        <Link href="/ministracoes">Ministrações</Link>
       </nav>
     </Style.MenuWrapp>
   );
