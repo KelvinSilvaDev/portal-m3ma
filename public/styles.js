@@ -4,7 +4,7 @@ import { homeBg } from "../src/assets/img";
 export const SectionOne = styled.section`
   display: flex;
   flex-wrap: wrap;
-  background: url("https://placehold.jp/1200x500.png");
+  background: url("https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/294638082_5556420237734782_5627069322565715374_n.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
