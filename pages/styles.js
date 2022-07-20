@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { homeBg } from "../src/assets/img";
 
 export const SectionOne = styled.section`
   display: flex;
